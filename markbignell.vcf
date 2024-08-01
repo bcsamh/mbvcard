@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bignell;Mark;;;
+FN:Mark Bignell
+ORG:Bellissimo Coffee
+ADR;TYPE=WORK:12 Cavendish Rd, Coorparoo QLD 4151
+TITLE:Director
+TEL;TYPE=CELL:+61433321143
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:markbignell@bellissimocoffee.com.au
+URL;TYPE=Digital Business Card:markbignell@bellissimocoffee.com.au
+URL:https://www.bellissimocoffee.com.au
+URL;TYPE=Website:https://www.bellissimocoffee.com.au
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100655677
+END:VCARD
